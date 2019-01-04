@@ -1,0 +1,69 @@
+@charset "utf-8";
+
+/* レスポンシブ設定 */
+
+div#page
+{
+    padding: 14px;    
+}
+
+.style_table {
+    margin-left: auto;
+}
+
+@media (max-width: 800px)
+{
+   div#contents
+   {
+       display:table;
+       table-layout:fixed;
+       border-spacing: 8px; 0;       
+       width:100%;
+   }
+   div#menubar
+   {
+       display:table-footer-group;
+       width:100%;
+   }
+   div#body
+   {
+       display:table-row-group;
+       width:100%;
+   }
+}
+
+@media (min-width: 801px)
+{
+   div#contents
+   {
+       display:table;
+       table-layout:fixed;
+       border-spacing: 8px; 0;
+       width:100%;       
+   }
+   div#menubar
+   {
+       display:table-cell;
+       vertical-align:top;
+       width:180px;
+   }
+   div#body
+   {
+       display:table-cell;
+   }
+}
+
+@media (min-width: 1000px)
+{
+   body
+   {
+       max-width: 1000px;
+   }
+}
+
+div#body img
+{
+    max-width:100%;
+    height: auto;
+}
+

@@ -3,7 +3,11 @@ Simple Responsive Skin for PukiWiki
 
 PukiWiki 1.5.1対応のシンプルなレスポンシブスキンです。
 
-- [デモサイト](https://srcw.net/pukiwiki/)
+
+![sr](sr.jpg)
+
+
+[デモサイト](https://srcw.net/pukiwiki/)で動作が確認できます。[src256 wiki](https://srcw.net/wiki)では少しカスタマイズしたバージョンが動いています。
 
 作成にあたり[PukiwikiレスポンシブSkin](http://reddog.s35.xrea.com/wiki/Pukiwiki%E3%83%AC%E3%82%B9%E3%83%9D%E3%83%B3%E3%82%B7%E3%83%96Skin.html)を参考にさせていただきました。
 

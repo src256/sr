@@ -1,7 +1,7 @@
 Simple Responsive Skin for PukiWiki
 ===================================
 
-PukiWiki 1.5.1対応のシンプルなレスポンシブスキンです。
+PukiWiki 1.5.2対応のシンプルなレスポンシブスキンです。
 
 
 ![sr](sr.jpg)
